@@ -1,0 +1,12 @@
+SnowWhite;50;75
+Cinderella;60;80
+Bell;70;85
+Mulan;80;90
+Jasmin;90;95
+Brave;100;100
+Sleeping Bueaty;110;105
+Ariel;120;110
+Raponzel;130;115
+Pocahontas;140;120
+Moana;150;125
+
